@@ -7,7 +7,7 @@ If there are new stamps I haven't gotten to yet, send in an issue or get in cont
 
 # Update (05/25/2025)
 
-I've been using the [itemdb script](https://itemdb.com.br/articles/userscripts) and haven't been maintaining this simply because it's not on my mind. If I'm behind, again, feel free to either send in an Issue or sumbit a Pull Request.
+I've been using the [itemdb script](https://itemdb.com.br/articles/userscripts) and haven't been maintaining this simply because it's not on my mind. If I'm behind, again, feel free to either send in an Issue or submit a Pull Request.
 
 # Contributors
 
