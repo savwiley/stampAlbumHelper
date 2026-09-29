@@ -12,3 +12,4 @@ I've been using the [itemdb script](https://itemdb.com.br/articles/userscripts) 
 # Contributors
 
 [hgerst](https://github.com/hgerst)
+[hanleetu](https://github.com/hanleetu)
